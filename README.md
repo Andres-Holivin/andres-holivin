@@ -50,15 +50,23 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Andres-Holivin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" alt="GitHub Stats"/>
+<!-- Contribution Snake Animation -->
+<img src="https://raw.githubusercontent.com/Andres-Holivin/Andres-Holivin/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-Holivin&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" alt="Top Languages"/>
+<!-- GitHub Stats Cards -->
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-Holivin&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="170" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Andres-Holivin&theme=tokyonight&hide_border=true&background=00000000" height="165" alt="Streak Stats"/>
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Andres-Holivin&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=00C8FF&currStreakLabel=58A6FF" height="180" alt="GitHub Streak"/>
 
 </div>
+
 
 ## 🌐 Connect with Me
 
