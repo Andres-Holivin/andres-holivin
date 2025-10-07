@@ -8,7 +8,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Andres+Holivin;Fullstack+Developer+from+Indonesia;Building+Web+%26+Mobile+Apps;Let's+Code+Something+Great!" alt="Typing SVG" />
 
 </div>
-## 🌐 Connect with Me
+
+### 🌐 Connect with Me
 
 <div align="center">
   <a href="mailto:andres12holivin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
