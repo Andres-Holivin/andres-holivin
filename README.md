@@ -1,97 +1,82 @@
-# 👋 Hi — I’m Andres Holivin
+<!--
+  README for GitHub Profile (username: Andres-Holivin)
+  Be sure to enable “Display README” in your profile settings.
+-->
 
-Full-stack developer building web & mobile apps with a focus on **TypeScript**, **Next.js**, **NestJS**, and modern tooling. I enjoy turning ideas into production-ready apps, improving developer experience, and learning backend & cloud patterns. Always happy to collaborate — let’s build something great! 🚀
+# 👋 Hi there, I’m Andres Holivin
 
----
-
-<!-- center header badges -->
-<p align="center">
-  <!-- Social / quick stats -->
-  <img src="https://img.shields.io/badge/GitHub-@Andres--Holivin-181717?style=for-the-badge&logo=github" alt="github" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Indonesia-ffdd57?style=for-the-badge&logo=mapbox" alt="location" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Available-Open%20to%20Work-brightgreen?style=for-the-badge" alt="open-to-work" />
-</p>
+I’m a **Software Engineer** from Indonesia 🇮🇩 with a passion for building web & mobile apps and automating infrastructure. I enjoy exploring new tech, writing about my journey, and contributing to open source.
 
 ---
 
-## 🛠️ Tech & Tools
+## 🛠️ Tech Stack & Skills
 
-<p>
-  <!-- Tech badges line 1 -->
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-</p>
+Here are some of the languages, frameworks, and tools I use regularly:
 
-<p>
-  <!-- Tech badges line 2 -->
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+| Layer | Technologies / Tools |
+|---|---|
+| Languages | **PHP**, **JavaScript / TypeScript**, **Dart / Flutter**, **C#**, **SQL** |
+| Frontend | React, Next.js, HTML, CSS, Tailwind CSS |
+| Mobile | Flutter |
+| Backend / APIs | Node.js, Express, Laravel, REST, GraphQL |
+| DevOps / Infra | Docker, CI/CD (GitLab CI, GitHub Actions), Nginx, VPS / VM deployment |
+| Other tools & skills | Git, REST, Test-driven development, Documentation, Automation |
 
-<p>
-  <!-- Mobile / DB -->
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img alt="Postgres" src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-</p>
+> ⚡ Fun fact: I once wrote about automating React app deployment on a VM using GitLab CI, Docker, and Nginx. :contentReference[oaicite:0]{index=0}
 
 ---
 
-## 📈 GitHub Stats (visual)
+## 📈 GitHub Stats
 
-<p align="center">
-  <!-- Main GitHub stats + Top languages -->
-  <img alt="Andres' GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Andres-Holivin&show_icons=true&theme=radical&count_private=true" />
-  &nbsp;
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-Holivin&layout=compact&theme=radical" />
-</p>
+> These are dynamic — you can embed them using [GitHub Readme stats](https://github.com/anuraghazra/github-readme-stats) or similar tools.
 
-<p align="center">
-  <!-- Streak & Trophy -->
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Andres-Holivin&theme=radical" />
-  &nbsp;
-  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Andres-Holivin&theme=radical&no-frame=true&column=4" />
-</p>
+- **Top languages**  
+  `(placeholder)`  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-Holivin&layout=compact)
+
+- **GitHub contribution / streak**  
+  `(placeholder)`  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Andres-Holivin&theme=dark)
+
+- **General stats**  
+  `(placeholder)`  
+  ![Stats](https://github-readme-stats.vercel.app/api?username=Andres-Holivin&show_icons=true&theme=dark)
 
 ---
 
-## 🔍 More visuals — Contribution / Activity
+## 🚀 Featured Projects
 
-<p align="center">
-  <!-- Contribution calendar -->
-  <img alt="Contribution chart" src="https://ghchart.rshah.org/Andres-Holivin" />
-</p>
+Here are a few repositories I’m particularly proud of:
 
-<p align="center">
-  <!-- Activity graph (commits per day visualization) -->
-  <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Andres-Holivin&theme=react-dark&hide_border=true" />
-</p>
+| Project | Description |
+|---|---|
+| **[Portofolio-ReactJs](https://github.com/Andres-Holivin/Portofolio-ReactJs)** | My personal portfolio site built with React (JavaScript/TypeScript) to showcase my projects and blogs. |
+| **[tokoto-flutter](https://github.com/Andres-Holivin/tokoto-flutter)** | A Flutter app (Dart) for mobile (iOS/Android) — practicing UI, state management, and API integration. |
+| **[MotivationApp-AppWrite](https://github.com/Andres-Holivin/MotivationApp-AppWrite)** | An app demonstrating integration with **AppWrite** backend-as-a-service + Flutter front-end (Dart). |
+| **[Keypedia-project](https://github.com/Andres-Holivin/Keypedia-project)** | A PHP-based web app project — backend and database integration with user authentication. |
+| **[LisTo](https://github.com/Andres-Holivin/LisTo)** | A simple list / task management project (web / API) used for practice & learning. |
 
-> If any of these external images fail to render on GitHub, try switching the theme parameter (`theme=radical`) to `github_dark` or `dark`, or remove the failing image. These images are served by popular public services.
+Feel free to explore my GitHub profile—you’ll find more experiments, small utilities, and learning repos.
 
 ---
 
 ## 📫 Contact & Links
 
-- Website: https://andres-holivin.github.io/  
-- LinkedIn: https://www.linkedin.com/in/andres-holivin-73327b1a3  
-- Email: `YOUR_EMAIL@example.com` <!-- replace with preferred contact -->
-- GitHub: https://github.com/Andres-Holivin
+- **Website / Portfolio**: [andresholivin.vercel.app](https://andresholivin.vercel.app) :contentReference[oaicite:1]{index=1}  
+- **DEV.to**: [holivin21](https://dev.to/holivin21) :contentReference[oaicite:2]{index=2}  
+- **LinkedIn**: [Andres Holivin](https://id.linkedin.com/in/andres-holivin-73327b1a3) — skilled in PHP, HTML, C#, Flutter, and more :contentReference[oaicite:3]{index=3}  
+- 📧 Email: `andres12holivin@gmail.com` (please feel free to reach out!)
 
 ---
 
-### ⚙️ Small notes & customization ideas
-- Swap `theme=radical` to `github_dark` or `dracula` in the images above for different color palettes.
-- If you want an eye-catching banner at the top (SVG), I can generate one with your preferred colors and short tagline.
-- Want to highlight contributions (e.g., open to collaboration, speaking, hiring)? I can add a compact "I’m open to..." badge row.
+## ✨ Final Thoughts
+
+I’m always learning and open to collaborating on interesting projects—especially in web, mobile, or infrastructure automation.  
+If you see something cool or want to connect, feel free to say hello 👋
+
+Let’s build something awesome together!
 
 ---
 
-*Would you like a light theme version, a banner SVG for the top, or a condensed single-line badge header? I can produce either immediately.*  
+*This README is dynamically enhanced using GitHub Stats & language cards. Replace `(placeholder)` sections with actual embed links or codes if needed.*
+
