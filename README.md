@@ -14,7 +14,6 @@
 <div align="center">
   <a href="mailto:andres12holivin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/andres-holivin-73327b1a3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://andresholivin.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge" /></a>
   <a href="https://github.com/Andres-Holivin"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
 </div>
 
