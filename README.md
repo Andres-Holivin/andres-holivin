@@ -5,7 +5,8 @@
 
 <!-- HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Andres+Holivin;Fullstack+Developer+from+Indonesia;Building+Web+%26+Mobile+Experiences;Let's+Code+Something+Great+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Andres+Holivin;Fullstack+Developer+from+Indonesia;Building+Web+%26+Mobile+Apps;Let's+Code+Something+Great!" alt="Typing SVG" />
+
 </div>
 
 ---
