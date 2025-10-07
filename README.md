@@ -1,74 +1,55 @@
-<!--
-  Tip: you can pin this README by creating a repository named exactly like your GitHub username,
-  and the README in that repository will show on your profile.
--->
+<!-- Profile Header -->
+<h1 align="center">👋 Hi, I'm <span style="color:#58a6ff;">Andres Holivin</span></h1>
 
-# 👋 Hello, I’m Andres Holivin
+<p align="center">
+  💻 Full-stack Developer | ⚡ Passionate about TypeScript, Next.js & NestJS | 🌱 Always Learning
+</p>
 
-I’m a passionate software developer from Indonesia building things with web, mobile, and cloud tech.  
-I enjoy turning ideas into real products, learning new tools, and contributing to open source.  
-When I'm not coding, I might be reading, exploring new tech, or brewing (too much) coffee ☕.
-
----
-
-## 🛠️ Tech Stack & Skills
-
-Here are some of the tools, languages, and frameworks I use (or enjoy learning):
-
-| Layer / Domain | Technologies & Tools |
-|----------------|------------------------|
-| Frontend / Web | React, Next.js, JavaScript, TypeScript, CSS / Tailwind |
-| Mobile & Cross-Platform | Flutter, Dart |
-| Backend / APIs | Node.js, Express, Appwrite |
-| DevOps / Deployment | Docker, CI/CD (GitLab CI, GitHub Actions), Nginx, SSH deployment |
-| Databases / Storage | (Your primary ones, e.g. Firestore, MySQL, PostgreSQL, etc.) |
-| Version Control & Tools | Git, GitHub, VSCode |
-| Others / Exploration | (e.g. GraphQL, serverless, testing, etc.) |
-
-> *Note: you can adjust this list to precisely reflect your strongest skills / interests.*
+<p align="center">
+  <a href="https://andres-holivin.github.io/"><img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/andres-holivin-73327b1a3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 👨‍💻 About Me
 
-> (You can dynamically embed stats using services like `github-readme-stats` or `github-profile-summary`.)
+I'm a passionate **Full-stack Developer** who loves building scalable web apps, exploring new backend architectures, and creating delightful UI experiences.  
+I work primarily with **TypeScript**, **Next.js**, and **NestJS**, and I enjoy learning tools that make development faster, cleaner, and more fun 🚀
 
-<!-- Example: GitHub Readme Stats -->
-[![Andres’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Andres-Holivin&show_icons=true&theme=default)](https://github.com/Andres-Holivin)  
-
-<!-- Example: Top Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-Holivin&layout=compact&theme=default)](https://github.com/Andres-Holivin)  
-
-<!-- You can also embed a streak / contribution graph, etc. -->
+- 🌍 Based in **Indonesia**  
+- 🧠 Currently exploring **microservices** & **AI integration**  
+- 🤝 Open for collaboration and exciting opportunities  
+- ⚡ Fun fact: I like clean UI and automation magic ✨
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-Here are a few projects I’m proud of:
-
-| Project | Description |
-|---|---|
-| **[MotivationApp-AppWrite](https://github.com/Andres-Holivin/MotivationApp-AppWrite)** | A Flutter mobile app built with Appwrite backend, to help users track and maintain their motivation / habits. |
-| **[Portofolio-ReactJs](https://github.com/Andres-Holivin/Portofolio-ReactJs)** | My personal portfolio website built with React / Next.js (or plain React) to showcase my projects. |
-| **[tokoto-flutter](https://github.com/Andres-Holivin/tokoto-flutter)** | An e-commerce / marketplace prototype built in Flutter. |
-| **[Keypedia-project](https://github.com/Andres-Holivin/Keypedia-project)** | (Describe what Keypedia does) |
-| **[LisTo](https://github.com/Andres-Holivin/LisTo)** | (A Java / mobile / utility project—brief description) |
-| **[amazing_e-book](https://github.com/Andres-Holivin/amazing_e-book)** | A PHP / web project involving e-book platform or content management. |
-
-*(Feel free to reorder, add/remove, or improve descriptions.)*
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,go,python,dart,kotlin" /><br>
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui" /><br>
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,prisma,postgres,supabase" /><br>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=docker,vercel,git,github,vscode" />
+</p>
 
 ---
 
-## 📫 Contact & Links
+## 📊 GitHub Statistics
 
-- 📧 Email: `andres12holivin@gmail.com` (or your preferred email)  
-- 🌐 Website / Portfolio: https://andresholivin.vercel.app :contentReference[oaicite:0]{index=0}  
-- 📝 Blog / Articles: (if you write tech articles)  
-- 🔗 LinkedIn / Twitter / etc: (your social / professional profiles)  
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andres-Holivin&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-Holivin&layout=compact&theme=tokyonight" />
+</p>
 
-I’m always open to collaborations, feedback, or just chatting about tech — feel free to reach out!
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andres-Holivin&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
----
-
-Thank you for checking out my profile. Let’s build something amazing! 🚀  
+<p align="center">
+  <
