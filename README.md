@@ -1,60 +1,85 @@
-# 👋 Hi, I’m **Andres Holivin**
-> Passionate software developer from Indonesia — building web, mobile, and cloud solutions.  
-I love creating elegant, fast, and scalable apps using modern frameworks and tools.  
-Currently exploring **AI integrations**, **microservices**, and **automation** for real-world apps 🚀
+<!--
+  Enhanced GitHub Profile README for Andres Holivin
+  Designed for high visual impact and readability.
+-->
+
+<!-- HEADER -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Andres+Holivin;Fullstack+Developer+from+Indonesia;Building+Web+%26+Mobile+Experiences;Let's+Code+Something+Great+🚀" alt="Typing SVG" />
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
+> I'm a **Fullstack Developer** who loves creating scalable and beautiful software.  
+> From **frontend UI/UX** to **backend APIs**, I enjoy building complete solutions.  
+> Currently exploring **microservices**, **AI integration**, and **automation**.  
 
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,flutter,dart" /><br/>
-  <b>Frontend & Mobile</b><br/>
-  <sub>React • Next.js • Flutter • TypeScript • TailwindCSS</sub>
-</p>
-
-<p align="center">
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,appwrite,prisma,postgres,mysql" /><br/>
-  <b>Backend & Database</b><br/>
-  <sub>Node.js • NestJS • Appwrite • Prisma • PostgreSQL • MySQL</sub>
-</p>
-
-<p align="center">
-  <!-- DevOps & Tools -->
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,linux,postman,figma" /><br/>
-  <b>DevOps & Tools</b><br/>
-  <sub>Docker • GitHub Actions • Vercel • Linux • Postman • Figma</sub>
-</p>
+🧠 **Main Focus:** Fullstack Web & Flutter Development  
+🌱 **Learning:** Cloud DevOps & AI Integration  
+🎯 **Goal:** Build impactful apps that make life simpler  
 
 ---
 
-## 📈 GitHub Stats
+## ⚙️ Tech Stack (Visual Edition)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andres-Holivin&show_icons=true&theme=transparent&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-Holivin&layout=compact&theme=transparent&hide_border=true" height="160"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Andres-Holivin&theme=transparent&hide_border=true" />
-</p>
+### 💻 Frontend & Mobile
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,flutter,dart" height="60" /><br/>
+<sub>React • Next.js • Tailwind • Flutter • TypeScript • Dart</sub>
 
 ---
 
+### 🧩 Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,appwrite,prisma,postgres,mysql,supabase" height="60" /><br/>
+<sub>Node.js • NestJS • Prisma • PostgreSQL • MySQL • Appwrite • Supabase</sub>
 
-## 📫 Contact / Links
+---
 
-<p align="center">
-  <a href="mailto:andres12holivin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/andres-holivin-73327b1a3"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
-  <a href="https://andresholivin.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge"></a>
-  <a href="https://github.com/Andres-Holivin"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge"></a>
-</p>
+### 🛠️ DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,vercel,git,github,postman,figma,linux,vscode" height="60" /><br/>
+<sub>Docker • Vercel • GitHub Actions • Postman • Figma • Linux • VSCode</sub>
+
+</div>
+
+---
+
+## 📈 GitHub Insights
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Andres-Holivin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-Holivin&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Andres-Holivin&theme=tokyonight&hide_border=true&background=00000000" height="165" alt="Streak Stats"/>
+
+</div>
+
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="mailto:andres12holivin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/andres-holivin-73327b1a3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://andresholivin.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://github.com/Andres-Holivin"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Andres-Holivin&theme=darkhub&no-bg=true&no-frame=true&row=1&margin-w=10" alt="Trophy" />
+</div>
 
 ---
 
 <p align="center">
-  <sub>✨ “Code is like humor — when you have to explain it, it’s bad.” ✨</sub>
+  <img src="https://komarev.com/ghpvc/?username=Andres-Holivin&label=Profile+Views&color=brightgreen&style=flat-square" alt="views"/>
+</p>
+
+<p align="center">
+  <sub>✨ “Code. Create. Learn. Repeat.” ✨</sub>
 </p>
