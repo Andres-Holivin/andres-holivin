@@ -43,17 +43,6 @@ Currently exploring **AI integrations**, **microservices**, and **automation** f
 
 ---
 
-## 🔎 Featured Projects
-
-| Project | Description | Tech |
-|:--------|:-------------|:----|
-| 🛍️ [**tokoto-flutter**](https://github.com/Andres-Holivin/tokoto-flutter) | E-commerce app built with Flutter & Dart | Flutter, Dart |
-| ✅ [**LisTo**](https://github.com/Andres-Holivin/LisTo) | Task manager & to-do list app | Java, Android |
-| ⚙️ [**Boilerplate**](https://github.com/Andres-Holivin/Boilerplate) | Project starter kit for modern web dev | TypeScript, Node.js |
-| 💬 [**MotivationApp-AppWrite**](https://github.com/Andres-Holivin/MotivationApp-AppWrite) | Motivational quotes app with Appwrite backend | Flutter, Appwrite |
-| 🌐 [**Portofolio-ReactJs**](https://github.com/Andres-Holivin/Portofolio-ReactJs) | My portfolio website built with React | React, Vercel |
-
----
 
 ## 📫 Contact / Links
 
