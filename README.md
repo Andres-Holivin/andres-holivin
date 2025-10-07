@@ -45,39 +45,31 @@
 </div>
 
 ---
-
 ## 📈 GitHub Insights
 
 <div align="center">
 
-<!-- 🏆 GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Andres-Holivin&theme=radical&no-frame=true&no-bg=true&margin-w=5&margin-h=5" width="100%" alt="GitHub Trophies" />
+<!-- 🏆 Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Andres-Holivin&theme=onestar&no-frame=true&margin-w=8" width="100%" alt="GitHub Trophies" />
 
 <br/>
 
-<!-- 📊 GitHub Stats -->
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Andres-Holivin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00BFFF&icon_color=00C8FF" height="170" alt="Andres Holivin GitHub Stats"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-Holivin&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00BFFF" height="170" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
+<!-- 📊 Stats Cards -->
+<img src="https://github-readme-stats.vercel.app/api?username=Andres-Holivin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-Holivin&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" alt="Top Languages"/>
 
 <br/>
 
 <!-- 🔥 Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=Andres-Holivin&theme=tokyonight&hide_border=true&background=00000000&ring=00BFFF&fire=00C8FF&currStreakLabel=00BFFF" height="180" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Andres-Holivin&theme=tokyonight&hide_border=true&background=00000000" height="180" alt="GitHub Streak"/>
 
-<br/><br/>
+<br/>
 
-<!-- 📉 Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Andres-Holivin&theme=tokyo-night&hide_border=true&bg_color=00000000&color=00BFFF&line=00C8FF&point=FFFFFF" width="100%" alt="Activity Graph"/>
+<!-- 🌈 Animated Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Andres-Holivin&bg_color=00000000&color=00BFFF&line=00C8FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Andres Holivin GitHub Activity Graph"/>
 
 </div>
+
 
 
 
