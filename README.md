@@ -1,112 +1,97 @@
-<!-- BANNER (replace the image URL with your custom banner if you have one) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Andres-Holivin/Andres-Holivin/main/assets/banner-placeholder.png" alt="banner" width="100%" />
-</p>
+# 👋 Hi — I’m Andres Holivin
 
-# 👋 Hi, I’m Andres Holivin
-
-Full-stack developer focused on TypeScript, Next.js, NestJS, Prisma, and modern web/mobile tooling. I build production-ready apps, optimize developer experience, and enjoy learning new stacks. Always happy to collaborate — let’s build something great. 🚀
+Full-stack developer building web & mobile apps with a focus on **TypeScript**, **Next.js**, **NestJS**, and modern tooling. I enjoy turning ideas into production-ready apps, improving developer experience, and learning backend & cloud patterns. Always happy to collaborate — let’s build something great! 🚀
 
 ---
 
-<!-- BADGES ROW -->
+<!-- center header badges -->
 <p align="center">
-  <!-- Tech badges -->
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
-
-<p align="center">
-  <!-- Social / contact -->
-  <a href="https://github.com/Andres-Holivin">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Andres-Holivin?label=Follow&style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/andres-holivin-73327b1a3">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://andres-holivin.github.io/">
-    <img alt="Website" src="https://img.shields.io/badge/-Website-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 📊 Quick Visual Stats
-
-<p align="center">
-  <!-- GitHub Readme Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Andres-Holivin&show_icons=true&theme=radical&count_private=true" alt="Andres' GitHub stats" width="48%" />
+  <!-- Social / quick stats -->
+  <img src="https://img.shields.io/badge/GitHub-@Andres--Holivin-181717?style=for-the-badge&logo=github" alt="github" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-Holivin&layout=compact&theme=radical" alt="Top Languages" width="30%" />
-</p>
-
-<p align="center">
-  <!-- Streaks & Trophies -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andres-Holivin&theme=radical" alt="GitHub Streak" width="45%" />
+  <img src="https://img.shields.io/badge/Location-Indonesia-ffdd57?style=for-the-badge&logo=mapbox" alt="location" />
   &nbsp;
-  <img src="https://github-profile-trophy.vercel.app/?username=Andres-Holivin&theme=radical&row=1&column=5" alt="Trophies" width="45%" />
+  <img src="https://img.shields.io/badge/Available-Open%20to%20Work-brightgreen?style=for-the-badge" alt="open-to-work" />
 </p>
 
 ---
 
-## 📈 Activity & Heatmap
+## 🛠️ Tech & Tools
+
+<p>
+  <!-- Tech badges line 1 -->
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
+
+<p>
+  <!-- Tech badges line 2 -->
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+<p>
+  <!-- Mobile / DB -->
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img alt="Postgres" src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
+
+---
+
+## 📈 GitHub Stats (visual)
 
 <p align="center">
-  <!-- Contribution graph / Activity graph -->
-  <!-- If the activity-graph service is rate-limited, replace with a static image -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=Andres-Holivin&theme=github" alt="Contribution Graph" />
+  <!-- Main GitHub stats + Top languages -->
+  <img alt="Andres' GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Andres-Holivin&show_icons=true&theme=radical&count_private=true" />
+  &nbsp;
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-Holivin&layout=compact&theme=radical" />
 </p>
-
----
-
-## 🔍 More Visual Insights
 
 <p align="center">
-  <!-- Visitor count -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Andres-Holivin.Andres-Holivin" alt="visitor badge" />
-
-  <!-- Optional: WakaTime coding hours (placeholder) -->
-  <!-- Replace YOUR_WAKATIME_USERNAME with your WakaTime username to show coding time -->
-  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_USERNAME.svg" alt="WakaTime" />
+  <!-- Streak & Trophy -->
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Andres-Holivin&theme=radical" />
+  &nbsp;
+  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Andres-Holivin&theme=radical&no-frame=true&column=4" />
 </p>
 
 ---
 
-## 🧾 About Me (short)
+## 🔍 More visuals — Contribution / Activity
 
-- I build web & mobile apps using **TypeScript**, **Next.js**, **NestJS**, **Prisma**, and **Flutter**.  
-- I care about developer experience, clean architecture, and shipping maintainable code.  
-- Open to collaborations and interesting projects — reach out!
+<p align="center">
+  <!-- Contribution calendar -->
+  <img alt="Contribution chart" src="https://ghchart.rshah.org/Andres-Holivin" />
+</p>
+
+<p align="center">
+  <!-- Activity graph (commits per day visualization) -->
+  <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Andres-Holivin&theme=react-dark&hide_border=true" />
+</p>
+
+> If any of these external images fail to render on GitHub, try switching the theme parameter (`theme=radical`) to `github_dark` or `dark`, or remove the failing image. These images are served by popular public services.
 
 ---
 
-## 📫 Contact
+## 📫 Contact & Links
 
-- Email: `YOUR_EMAIL@example.com`  
 - Website: https://andres-holivin.github.io/  
-- LinkedIn: https://www.linkedin.com/in/andres-holivin-73327b1a3
+- LinkedIn: https://www.linkedin.com/in/andres-holivin-73327b1a3  
+- Email: `YOUR_EMAIL@example.com` <!-- replace with preferred contact -->
+- GitHub: https://github.com/Andres-Holivin
 
 ---
 
-### ⚙️ Notes & Customization tips
-- **Banner:** Replace the banner image URL (`assets/banner-placeholder.png`) with your own banner (store it in the profile repo under `/assets/` and reference it).  
-- **WakaTime:** Replace `YOUR_WAKATIME_USERNAME` with your WakaTime username to show coding hours. If you don’t use WakaTime, remove that badge.  
-- **Visitor badge:** The visitor counter uses a third-party service (Glitch); it may occasionally be rate-limited — feel free to swap it for a Shields badge or remove it.  
-- **Activity Graph:** The activity-graph service can be rate-limited or blocked; if it fails, create a GIF or static image of your contributions and host it in `/assets/` then reference it.  
-- **Themes:** Change `theme=radical` in the stats URLs to `tokyonight`, `dark`, `github_dark`, etc., to match your README style.  
-- **Tweak spacing/icons:** Remove or add any badges you like — badges use shields.io and are easy to customize.
+### ⚙️ Small notes & customization ideas
+- Swap `theme=radical` to `github_dark` or `dracula` in the images above for different color palettes.
+- If you want an eye-catching banner at the top (SVG), I can generate one with your preferred colors and short tagline.
+- Want to highlight contributions (e.g., open to collaboration, speaking, hiring)? I can add a compact "I’m open to..." badge row.
 
 ---
 
-If you want, I can:
-- Generate a custom SVG banner (colors, tagline) and provide the final image file to include in `/assets/`.  
-- Swap the activity graph for a screenshot or animated GIF of a repo demo.  
-
-Tell me which of those you'd like and I'll create it right away. (Or I can just produce the custom banner now.) 
+*Would you like a light theme version, a banner SVG for the top, or a condensed single-line badge header? I can produce either immediately.*  
