@@ -55,13 +55,12 @@
 <br/>
 
 <!-- 📊 Stats Cards -->
-<img src="https://github-readme-stats.vercel.app/api?username=Andres-Holivin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" alt="GitHub Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-Holivin&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" alt="Top Languages"/>
 
 <br/>
 
 <!-- 🔥 Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=Andres-Holivin&theme=tokyonight&hide_border=true&background=00000000" height="180" alt="GitHub Streak"/>
+<img src="https://git-hub-streak-stats.vercel.app/?user=Andres-Holivin&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak"/>
 
 <br/>
 
