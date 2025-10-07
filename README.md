@@ -50,22 +50,35 @@
 
 <div align="center">
 
-<!-- Contribution Snake Animation -->
-<img src="https://raw.githubusercontent.com/Andres-Holivin/Andres-Holivin/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+<!-- 🏆 GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Andres-Holivin&theme=radical&no-frame=true&no-bg=true&margin-w=5&margin-h=5" width="100%" alt="GitHub Trophies" />
 
-<!-- GitHub Stats Cards -->
+<br/>
+
+<!-- 📊 GitHub Stats -->
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-Holivin&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="170" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Andres-Holivin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00BFFF&icon_color=00C8FF" height="170" alt="Andres Holivin GitHub Stats"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-Holivin&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00BFFF" height="170" alt="Top Languages"/>
     </td>
   </tr>
 </table>
 
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Andres-Holivin&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=00C8FF&currStreakLabel=58A6FF" height="180" alt="GitHub Streak"/>
+<br/>
+
+<!-- 🔥 Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=Andres-Holivin&theme=tokyonight&hide_border=true&background=00000000&ring=00BFFF&fire=00C8FF&currStreakLabel=00BFFF" height="180" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- 📉 Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Andres-Holivin&theme=tokyo-night&hide_border=true&bg_color=00000000&color=00BFFF&line=00C8FF&point=FFFFFF" width="100%" alt="Activity Graph"/>
 
 </div>
+
 
 
 ## 🌐 Connect with Me
